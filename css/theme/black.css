@@ -16,12 +16,12 @@ body {
 
 .reveal {
 font-family: 'Space Mono', ;
-  /*font-size: 42px;*/
+  font-size: 42px;
   font-weight: normal;
   color: #000; }
 
 sub1 {
-  background-color: #FFAA00BA;
+  background-color: #FFAA00;
 }
 
 sub2 {
@@ -29,17 +29,20 @@ sub2 {
 }
 
 sub3 {
-  background-color: #93E1D8BA;
+  background-color: #93E1D8;
 }
 
 sub4 {
-  background-color: #FF99B7BA;
+  background-color: #FF99B7;
 }
 
 sub5 {
-  background-color: #E5ACAEBA;
+  background-color: #E5ACAE;
 }
 
+sub6 {
+  background-color: #26547C;
+}
 ::selection {
   color: #fff;
   background: #bee4fd;
@@ -66,7 +69,7 @@ sub5 {
 .reveal h6 {
 
 font-family: 'Space Mono';
-  /*font-size: 42px;*/
+  font-size: 42px;
   font-weight: normal;
   color: #000;
   word-wrap: break-word; }
@@ -123,7 +126,7 @@ font-family: 'Space Mono';
   font-family: 'Space Mono';
   font-size:13px!important;
   margin-right: 70px;
-  margin-left: 300px;
+  margin-left: 430px;
   text-align: justify;
   transform: rotate(-20deg);
   line-height: 1.4; 
